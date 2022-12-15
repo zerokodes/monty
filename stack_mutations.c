@@ -12,7 +12,7 @@ void push(cmd_t *cmd)
 {
 	stack_t **h = cmd->head;
 	stack_t *new = NULL;
-       	stack_t *temp = NULL;
+    stack_t *temp = NULL;
 
 	if (h == NULL)
 	{
@@ -181,4 +181,5 @@ void rotr(cmd_t *cmd)
 	first->prev = last;
 	second->next = NULL;
 	*h = last;
+    
 }
