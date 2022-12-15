@@ -1,8 +1,3 @@
-/**
- *Author - Sangwani P. Zyambo
- *Software Engineering studenta at alx/holberton
- */
-
 #include "monty.h"
 
 /**
