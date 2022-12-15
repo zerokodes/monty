@@ -1,5 +1,5 @@
 /**
- *Author - Sangwani P. Zyambo
+ *Author - Nduka Henry Chisom
  *Software engineering student at alx / holberton
  */
 #ifndef MONTY_H
