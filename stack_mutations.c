@@ -181,5 +181,4 @@ void rotr(cmd_t *cmd)
 	first->prev = last;
 	second->next = NULL;
 	*h = last;
-    
 }
